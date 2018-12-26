@@ -3,6 +3,22 @@ project_name
 
 machine learning algorithms in python
 
+Create conda environment.
+```bash
+$ conda env create -f environment.yml -n ngml
+```
+
+Activate conda environment.
+```bash
+$ source activate ml
+```
+
+To update project with new packages, add them to environment.yml, then type in
+
+```bash
+$ conda env update -f environment.yml -n ngml
+```
+
 Project Organization
 ------------
 
