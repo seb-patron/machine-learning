@@ -1,7 +1,7 @@
-project_name
+Machine Learning Python
 ==============================
 
-machine learning algorithms in python
+Machine Learning algorithms implemented in python.
 
 Create conda environment.
 ```bash
