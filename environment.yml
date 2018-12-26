@@ -1,0 +1,22 @@
+dependencies:
+ - python=3.7
+ - numpy
+ - scipy
+ - scikit-learn
+ - jupyter
+ - requests
+ - pandas
+ - seaborn
+ - click
+ - openpyxl
+ - nb_conda
+ - flake8
+ - coverage
+ - sphinx
+ - matplotlib
+ - psycopg2
+ - pip:
+   - watermark
+   - pytest
+   - surprise
+   - python-dotenv>=0.5.1
